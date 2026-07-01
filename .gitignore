@@ -1,0 +1,8 @@
+node_modules/
+.env
+app.log
+
+/src/generated/prisma
+prisma/seed.js
+backup.json
+backup.js
